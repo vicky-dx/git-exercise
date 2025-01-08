@@ -1,1 +1,5 @@
 /mental-health-workspace
+.idea 
+.DS_Store
+out 
+build
